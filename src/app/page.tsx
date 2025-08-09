@@ -80,13 +80,13 @@ export default function Home() {
           <div className="max-w-4xl mx-auto">
             <div className="space-y-6">
               <p className="text-lg text-slate-300 leading-relaxed transform hover:scale-105 transition-transform duration-300 p-4 rounded-lg hover:bg-slate-800/30">
-                I'm a passionate Software Engineering student at <span className="text-red-400 font-semibold">Kasetsart University</span>, currently pursuing a Bachelor's degree 
+                I&apos;m a passionate Software Engineering student at <span className="text-red-400 font-semibold">Kasetsart University</span>, currently pursuing a Bachelor&apos;s degree 
                 in Software and Knowledge Engineering. With hands-on experience in full-stack development, I specialize in 
                 building scalable web applications using modern technologies.
               </p>
               <p className="text-lg text-slate-300 leading-relaxed transform hover:scale-105 transition-transform duration-300 p-4 rounded-lg hover:bg-slate-800/30">
-                My journey in software development has led me through various internships and projects, where I've worked 
-                with technologies like <span className="text-red-500 font-semibold">Next.js</span>, <span className="text-green-400 font-semibold">Express.js</span>, <span className="text-yellow-400 font-semibold">Elysia.js</span>, and cloud services like <span className="text-orange-400 font-semibold">AWS</span>. I'm particularly interested 
+                My journey in software development has led me through various internships and projects, where I&apos;ve worked 
+                with technologies like <span className="text-red-500 font-semibold">Next.js</span>, <span className="text-green-400 font-semibold">Express.js</span>, <span className="text-yellow-400 font-semibold">Elysia.js</span>, and cloud services like <span className="text-orange-400 font-semibold">AWS</span>. I&apos;m particularly interested 
                 in creating user-friendly interfaces and robust backend systems.
               </p>
               <div className="flex flex-col sm:flex-row gap-8 justify-center mt-8">
@@ -129,7 +129,7 @@ export default function Home() {
                 <span className="text-slate-400 mt-2 md:mt-0 px-4 py-2 bg-blue-500/20 rounded-full text-sm">August 2025 - Now</span>
               </div>
               <p className="text-slate-300 leading-relaxed">
-                Collaborated in implementing the "Forum Contributing" Feature using technologies like 
+                Collaborated in implementing the &ldquo;Forum Contributing&rdquo; Feature using technologies like 
                 <span className="text-purple-400 font-semibold"> Elysia.js</span>, 
                 <span className="text-blue-400 font-semibold"> Next.js</span>, 
                 <span className="text-green-400 font-semibold"> PostgreSQL</span>, and 
@@ -196,7 +196,7 @@ export default function Home() {
                 </div>
                 <span className="text-slate-400 mt-2 md:mt-0 px-4 py-2 bg-green-500/20 rounded-full text-sm">April 2025 - May 2025</span>
               </div>
-              <h5 className="text-xl font-medium text-green-300 mb-3">Retiree Consultants' Marketplace</h5>
+              <h5 className="text-xl font-medium text-green-300 mb-3">Retiree Consultants&apos; Marketplace</h5>
               <ul className="text-slate-300 space-y-3 leading-relaxed mb-6">
                 <li className="flex items-start space-x-3">
                   <div className="w-2 h-2 bg-green-400 rounded-full mt-2 flex-shrink-0"></div>
